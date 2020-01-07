@@ -1,0 +1,9 @@
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\bin\Debug\netstandard2.0\Algorithm.deps.json
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\bin\Debug\netstandard2.0\Algorithm.dll
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\bin\Debug\netstandard2.0\Algorithm.pdb
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\obj\Debug\netstandard2.0\Algorithm.csprojAssemblyReference.cache
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\obj\Debug\netstandard2.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\obj\Debug\netstandard2.0\Algorithm.AssemblyInfoInputs.cache
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\obj\Debug\netstandard2.0\Algorithm.AssemblyInfo.cs
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\obj\Debug\netstandard2.0\Algorithm.dll
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm\obj\Debug\netstandard2.0\Algorithm.pdb

@@ -1,0 +1,17 @@
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\obj\Debug\netcoreapp2.2\Algorithm.Test.csprojAssemblyReference.cache
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\obj\Debug\netcoreapp2.2\Algorithm.Test.csproj.CoreCompileInputs.cache
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\obj\Debug\netcoreapp2.2\Algorithm.Test.AssemblyInfoInputs.cache
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\obj\Debug\netcoreapp2.2\Algorithm.Test.AssemblyInfo.cs
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\Algorithm.Test.deps.json
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\Algorithm.Test.runtimeconfig.json
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\Algorithm.Test.runtimeconfig.dev.json
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\Algorithm.Test.dll
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\Algorithm.Test.pdb
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\Algorithm.dll
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\bin\Debug\netcoreapp2.2\Algorithm.pdb
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\obj\Debug\netcoreapp2.2\Algorithm.Test.csproj.CopyComplete
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\obj\Debug\netcoreapp2.2\Algorithm.Test.dll
+D:\Users\bsi80091\Documents\dotnet\Test_algorithm\Algorithm.Test\obj\Debug\netcoreapp2.2\Algorithm.Test.pdb
